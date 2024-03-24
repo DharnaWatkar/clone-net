@@ -109,12 +109,13 @@ nav button{
     padding: 50px 0;
 }
 .text-col1{
-    flex-basis: 50%;
+    margin-right:10px;
+    flex-basis: 100%;
     margin-bottom: 20px;
    
 }
 .img-col1{
-    flex-basis: 50%;
+    flex-basis: 100%;
     margin-bottom:20px;
     }
 .img-col1 img{
@@ -132,12 +133,12 @@ nav button{
     padding: 50px 0;
 }
 .text-col2{
-    flex-basis: 50%;
+    flex-basis: 100%;
     margin-bottom: 20px;
    
 }
 .img-col2{
-    flex-basis: 50%;
+    flex-basis: 100%;
     margin-bottom:20px;
     }
 .img-col2 img{
@@ -154,12 +155,12 @@ nav button{
     padding: 50px 0;
 }
 .text-col3{
-    flex-basis: 50%;
+    flex-basis: 100%;
     margin-bottom: 20px;
    
 }
 .img-col3{
-    flex-basis: 50%;
+    flex-basis: 100%;
     margin-bottom:20px;
     }
 .img-col3 img{
@@ -176,12 +177,12 @@ nav button{
     padding: 50px 0;
 }
 .text-col4{
-    flex-basis: 50%;
+    flex-basis: 100%;
     margin-bottom: 20px;
    
 }
 .img-col4{
-    flex-basis: 50%;
+    flex-basis: 100%;
     margin-bottom:20px;
     }
 .img-col4 img{
