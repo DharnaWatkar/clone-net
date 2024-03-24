@@ -295,6 +295,12 @@ input[type="radio"]{
         margin-bottom: 20px;
        
     }
+    .text-col1 h1{
+        font-size: 30px;
+    }
+    .text-col1 h2{
+        font-size: 20px;
+    }
     .img-col1{
         flex-basis: 100%;
         margin-bottom:20px;
@@ -309,13 +315,19 @@ input[type="radio"]{
         width:100%;
         align-items: center;
         flex-wrap: wrap;
-        padding: 50px 50px;
+        padding: 80px 50px;
     }
     .text-col2{
         text-align: center;
         flex-basis: 100%;
         margin-bottom: 20px;
        
+    }
+    .text-col2 h1{
+        font-size: 30px;
+    }
+    .text-col2 h2{
+        font-size: 20px;
     }
     .img-col2{
         flex-basis: 100%;
@@ -333,13 +345,19 @@ input[type="radio"]{
         width:100%;
         align-items: center;
         flex-wrap: wrap;
-        padding: 50px 50px;
+        padding: 80px 50px;
     }
     .text-col3{
         text-align: center;
         flex-basis: 100%;
         margin-bottom: 20px;
        
+    }
+    .text-col3 h1{
+        font-size: 30px;
+    }
+    .text-col3 h2{
+        font-size: 20px;
     }
     .img-col3{
         flex-basis: 100%;
@@ -357,7 +375,7 @@ input[type="radio"]{
         width:100%;
         align-items: center;
         flex-wrap: wrap;
-        padding: 50px 50px;
+        padding: 80px 50px;
     }
     .text-col4{
         text-align: center;
@@ -365,13 +383,20 @@ input[type="radio"]{
         margin-bottom: 20px;
        
     }
+    .text-col4 h1{
+        font-size: 30px;
+    }
+    .text-col4 h2{
+        font-size: 20px;
+    }
     .img-col4{
         flex-basis: 100%;
         margin-bottom:20px;
         }
+
     .img-col4 img{
         display:block;
-        width: 90%;
+        width: 100%;
         margin: auto;
     } 
     .faq{
@@ -385,5 +410,6 @@ input[type="radio"]{
         font-weight: 500;
         font-size: 30px;
     }
+    
     
     
